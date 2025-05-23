@@ -1,0 +1,8 @@
+{
+  "corner": [{ "image": "images/Corner1.png" }],
+  "lamps": [
+    { "image": "/images/Accessory1.png" },
+    { "image": "/images/Accessory2.png" },
+    { "image": "/images/Accessory3.png" }
+  ]
+}
